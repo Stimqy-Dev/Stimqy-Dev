@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Stimqy
 
-<!--
-**Stimqy-Dev/Stimqy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 À propos de moi
 
-Here are some ideas to get you started:
+Je m'appelle **Stimqy**, j’ai **18 ans** et je suis passionné par le **développement informatique** depuis l’âge de **12 ans**.  
+Je m’intéresse également à l’**électronique**, ce qui m’a permis de mieux comprendre le lien entre le matériel et le code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Il y a **2 ans**, j’ai commencé à apprendre le **Lua** et à explorer l’univers du développement sur **FiveM**.  
+Aujourd’hui, je possède un **niveau correct en scripting** et je suis capable de créer des scripts fonctionnels, optimisés et adaptés aux besoins des serveurs.
+
+---
+
+## 🔧 Compétences
+
+- Utilisation des frameworks **ESX** et **ox_core**
+- Création de menus avec **RageUI** et **ox_lib**
+- Développement de scripts personnalisés (systèmes complets, gameplay, intégration)
+- Débogage et optimisation de scripts existants
+- Bonne compréhension du fonctionnement client/serveur sur FiveM
+
+> ❌ Je ne fais pas encore d'interfaces UI en NUI, mais je continue d'apprendre.
+
+---
+
+## 📈 Expérience
+
+J’ai eu l’opportunité de travailler sur **plus de 30 serveurs FiveM**, que ce soit pour :  
+- La réalisation de scripts sur mesure  
+- Le débogage de ressources complexes  
+- L’optimisation et le nettoyage de code existant  
+
+Je m'efforce de fournir un code **propre, clair et fiable**, en m’adaptant aux besoins de chaque serveur.
+
+---
+
+## 📫 Contact
+
+Disponible pour du **freelance**, des aides ponctuelles ou des projets complets.  
+**Discord** : `stimqy`
+
+---
+
