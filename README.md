@@ -36,7 +36,7 @@ Je m'efforce de fournir un code **propre, clair et fiable**, en m’adaptant aux
 ## 📫 Contact
 
 Disponible pour du **freelance**, des aides ponctuelles ou des projets complets.  
-**Discord** : `stimqy`
+**Discord** : `stimqy_dev`
 
 ---
 
