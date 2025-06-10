@@ -17,9 +17,6 @@ Aujourd’hui, je possède un **niveau correct en scripting** et je suis capable
 - Développement de scripts personnalisés (systèmes complets, gameplay, intégration)
 - Débogage et optimisation de scripts existants
 - Bonne compréhension du fonctionnement client/serveur sur FiveM
-
-> ❌ Je ne fais pas encore d'interfaces UI en NUI, mais je continue d'apprendre.
-
 ---
 
 ## 📈 Expérience
